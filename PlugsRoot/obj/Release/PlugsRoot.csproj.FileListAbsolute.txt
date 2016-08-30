@@ -1,0 +1,6 @@
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\bin\Release\PlugsRoot.dll
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\bin\Release\PlugsRoot.pdb
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\obj\Release\ResolveAssemblyReference.cache
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\obj\Release\PlugsRoot.dll
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\obj\Release\PlugsRoot.pdb

@@ -1,0 +1,170 @@
+F:\IronPythonTest\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+F:\IronPythonTest\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+F:\IronPythonTest\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\IronPythonTest\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+F:\IronPythonTest\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+F:\IronPythonTest\TestPlug\obj\Debug\PlugTool.dll
+F:\IronPythonTest\TestPlug\obj\Debug\PlugTool.pdb
+F:\IronPythonTest\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\TestPlug\obj\Debug\PlugTool.dll
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\TestPlug\obj\Debug\PlugTool.pdb
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\TestPlug\obj\Debug\PlugTool.dll
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\TestPlug\obj\Debug\PlugTool.pdb
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.dll
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.pdb
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.dll
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.pdb
+F:\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+F:\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+F:\IronPythonTest-Server\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+F:\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+F:\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+F:\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.dll
+F:\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.pdb
+G:\IronPythonTest-Server0913\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+G:\IronPythonTest-Server0913\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+G:\IronPythonTest-Server0913\IronPythonTest-Server\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+G:\IronPythonTest-Server0913\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+G:\IronPythonTest-Server0913\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+G:\IronPythonTest-Server0913\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+G:\IronPythonTest-Server0913\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.dll
+G:\IronPythonTest-Server0913\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.pdb
+F:\IronPythonTest-Server0915\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+F:\IronPythonTest-Server0915\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+F:\IronPythonTest-Server0915\IronPythonTest-Server\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\IronPythonTest-Server0915\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+F:\IronPythonTest-Server0915\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+F:\IronPythonTest-Server0915\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+F:\IronPythonTest-Server0915\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.dll
+F:\IronPythonTest-Server0915\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.pdb
+G:\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+G:\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+G:\IronPythonTest-Server\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+G:\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+G:\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+G:\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+G:\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.dll
+G:\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.pdb
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.dll
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\TestPlug\obj\Debug\PlugTool.pdb
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\TestPlug\obj\Debug\PlugTool.dll
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\TestPlug\obj\Debug\PlugTool.pdb
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\TestPlug\obj\Debug\PlugTool.dll
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\TestPlug\obj\Debug\PlugTool.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\TestPlug\obj\Debug\PlugTool.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\TestPlug\obj\Debug\PlugTool.pdb
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\TestPlug\obj\Debug\PlugTool.dll
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\TestPlug\obj\Debug\PlugTool.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\TestPlug\obj\Debug\PlugTool.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\TestPlug\obj\Debug\PlugTool.pdb
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\TestPlug\obj\Debug\PlugTool.dll
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\TestPlug\obj\Debug\PlugTool.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\IronPythonTest\bin\Debug\Plugs\PlugTool.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\TestPlug\obj\Debug\PlugTool.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\TestPlug\obj\Debug\PlugTool.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\ECSTOOL\bin\Debug\Plugs\PlugTool.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\ECSTOOL\bin\Debug\Plugs\PlugTool.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\ECSTOOL\bin\Debug\Plugs\PlugTool.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\ECSTOOL\bin\Debug\Plugs\PlugTool.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\PlugTool.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\PlugTool.pdb
+D:\NHN\ECSTOOL20130108\ECSTOOL\ECSTOOL\bin\Debug\Plugs\PlugTool.dll
+D:\NHN\ECSTOOL20130108\ECSTOOL\ECSTOOL\bin\Debug\Plugs\PlugTool.pdb
+D:\NHN\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+D:\NHN\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+D:\NHN\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+D:\NHN\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+D:\NHN\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\PlugTool.dll
+D:\NHN\ECSTOOL20130108\ECSTOOL\TestPlug\obj\Debug\PlugTool.pdb
+C:\wugang\Nginx\ECSTOOL\ECSTOOL\bin\Debug\Plugs\PlugTool.dll
+C:\wugang\Nginx\ECSTOOL\ECSTOOL\bin\Debug\Plugs\PlugTool.pdb
+C:\wugang\Nginx\ECSTOOL\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+C:\wugang\Nginx\ECSTOOL\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+C:\wugang\Nginx\ECSTOOL\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+C:\wugang\Nginx\ECSTOOL\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+C:\wugang\Nginx\ECSTOOL\TestPlug\obj\Debug\PlugTool.dll
+C:\wugang\Nginx\ECSTOOL\TestPlug\obj\Debug\PlugTool.pdb
+D:\NHN\ECSTOOL20130111\ECSTOOL\bin\Debug\Plugs\PlugTool.dll
+D:\NHN\ECSTOOL20130111\ECSTOOL\bin\Debug\Plugs\PlugTool.pdb
+D:\NHN\ECSTOOL20130111\TestPlug\obj\Debug\ResolveAssemblyReference.cache
+D:\NHN\ECSTOOL20130111\TestPlug\obj\Debug\PlugTool.PlugForm.resources
+D:\NHN\ECSTOOL20130111\TestPlug\obj\Debug\GenerateResource.read.1.tlog
+D:\NHN\ECSTOOL20130111\TestPlug\obj\Debug\GenerateResource.write.1.tlog
+D:\NHN\ECSTOOL20130111\TestPlug\obj\Debug\PlugTool.dll
+D:\NHN\ECSTOOL20130111\TestPlug\obj\Debug\PlugTool.pdb

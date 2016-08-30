@@ -1,0 +1,125 @@
+C:\Users\NHN\documents\visual studio 2010\Projects\IronPythonTest\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NHN\documents\visual studio 2010\Projects\IronPythonTest\PlugsRoot\bin\Debug\PlugsRoot.dll
+C:\Users\NHN\documents\visual studio 2010\Projects\IronPythonTest\PlugsRoot\bin\Debug\PlugsRoot.pdb
+C:\Users\NHN\documents\visual studio 2010\Projects\IronPythonTest\PlugsRoot\obj\Debug\PlugsRoot.dll
+C:\Users\NHN\documents\visual studio 2010\Projects\IronPythonTest\PlugsRoot\obj\Debug\PlugsRoot.pdb
+C:\Users\NHN\documents\visual studio 2010\Projects\IronPythonTest\TestDll\bin\Debug\PlugsRoot.dll
+C:\Users\NHN\documents\visual studio 2010\Projects\IronPythonTest\TestDll\bin\Debug\PlugsRoot.pdb
+C:\Users\NHN\documents\visual studio 2010\Projects\IronPythonTest\IronPythonTest\bin\Debug\PlugsRoot.dll
+C:\Users\NHN\documents\visual studio 2010\Projects\IronPythonTest\IronPythonTest\bin\Debug\PlugsRoot.pdb
+F:\IronPythonTest\PlugsRoot\bin\Debug\PlugsRoot.dll
+F:\IronPythonTest\PlugsRoot\bin\Debug\PlugsRoot.pdb
+F:\IronPythonTest\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+F:\IronPythonTest\PlugsRoot\obj\Debug\PlugsRoot.dll
+F:\IronPythonTest\PlugsRoot\obj\Debug\PlugsRoot.pdb
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\PlugsRoot\bin\Debug\PlugsRoot.dll
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\PlugsRoot\bin\Debug\PlugsRoot.pdb
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\PlugsRoot\obj\Debug\PlugsRoot.dll
+G:\ECSTOOL\IronPythonTest0910\IronPythonTest\PlugsRoot\obj\Debug\PlugsRoot.pdb
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\PlugsRoot\bin\Debug\PlugsRoot.dll
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\PlugsRoot\bin\Debug\PlugsRoot.pdb
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\PlugsRoot\obj\Debug\PlugsRoot.dll
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest\PlugsRoot\obj\Debug\PlugsRoot.pdb
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.dll
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.pdb
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.dll
+F:\ECSTOOL\IronPythonTest0911\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.pdb
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.dll
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.pdb
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.dll
+G:\ECSTOOL\IronPythonTest-Server0911\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.pdb
+F:\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.dll
+F:\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.pdb
+F:\IronPythonTest-Server\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+F:\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.dll
+F:\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.pdb
+G:\IronPythonTest-Server0913\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.dll
+G:\IronPythonTest-Server0913\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.pdb
+G:\IronPythonTest-Server0913\IronPythonTest-Server\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+G:\IronPythonTest-Server0913\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.dll
+G:\IronPythonTest-Server0913\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.pdb
+F:\IronPythonTest-Server0915\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.dll
+F:\IronPythonTest-Server0915\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.pdb
+F:\IronPythonTest-Server0915\IronPythonTest-Server\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+F:\IronPythonTest-Server0915\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.dll
+F:\IronPythonTest-Server0915\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.pdb
+G:\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.dll
+G:\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.pdb
+G:\IronPythonTest-Server\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+G:\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.dll
+G:\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.pdb
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.dll
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\PlugsRoot\bin\Debug\PlugsRoot.pdb
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.dll
+F:\ECSTOOL\IronPythonTest-Server0918\IronPythonTest-Server\PlugsRoot\obj\Debug\PlugsRoot.pdb
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.dll
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.pdb
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.dll
+F:\ECSTOOL\IronPythonTest-Server0918\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.pdb
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.dll
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.pdb
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.dll
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.pdb
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.dll
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.pdb
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.dll
+F:\Documents and Settings\WuGang\My Documents\ECSTOOL\ECSTOOL0925-C\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0926FULL\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.pdb
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.dll
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.pdb
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.dll
+F:\Documents and Settings\WuGang\My Documents\下载\ECSTOOL0926F\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\PlugsRoot\bin\Debug\PlugsRoot.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\ECSTOOL\bin\Debug\PlugsRoot.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL0927-1.1\ECSTOOL\ECSTOOL\bin\Debug\PlugsRoot.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\ECSTOOL\bin\Debug\PlugsRoot.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\ECSTOOL\bin\Debug\PlugsRoot.pdb
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.dll
+C:\Users\NHN\Documents\Visual Studio 2010\ECSTOOL20130108\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.pdb
+D:\NHN\ECSTOOL20130108\ECSTOOL\ECSTOOL\bin\Debug\PlugsRoot.dll
+D:\NHN\ECSTOOL20130108\ECSTOOL\ECSTOOL\bin\Debug\PlugsRoot.pdb
+D:\NHN\ECSTOOL20130108\ECSTOOL\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+D:\NHN\ECSTOOL20130108\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.dll
+D:\NHN\ECSTOOL20130108\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.pdb
+D:\NHN\ECSTOOL20130108\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.PlugRoot.resources
+D:\NHN\ECSTOOL20130108\ECSTOOL\PlugsRoot\obj\Debug\GenerateResource.read.1.tlog
+D:\NHN\ECSTOOL20130108\ECSTOOL\PlugsRoot\obj\Debug\GenerateResource.write.1.tlog
+C:\wugang\Nginx\ECSTOOL\ECSTOOL\bin\Debug\PlugsRoot.dll
+C:\wugang\Nginx\ECSTOOL\ECSTOOL\bin\Debug\PlugsRoot.pdb
+C:\wugang\Nginx\ECSTOOL\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+C:\wugang\Nginx\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.PlugRoot.resources
+C:\wugang\Nginx\ECSTOOL\PlugsRoot\obj\Debug\GenerateResource.read.1.tlog
+C:\wugang\Nginx\ECSTOOL\PlugsRoot\obj\Debug\GenerateResource.write.1.tlog
+C:\wugang\Nginx\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.dll
+C:\wugang\Nginx\ECSTOOL\PlugsRoot\obj\Debug\PlugsRoot.pdb
+D:\NHN\ECSTOOL20130111\ECSTOOL\bin\Debug\PlugsRoot.dll
+D:\NHN\ECSTOOL20130111\ECSTOOL\bin\Debug\PlugsRoot.pdb
+D:\NHN\ECSTOOL20130111\PlugsRoot\obj\Debug\ResolveAssemblyReference.cache
+D:\NHN\ECSTOOL20130111\PlugsRoot\obj\Debug\PlugsRoot.PlugRoot.resources
+D:\NHN\ECSTOOL20130111\PlugsRoot\obj\Debug\GenerateResource.read.1.tlog
+D:\NHN\ECSTOOL20130111\PlugsRoot\obj\Debug\GenerateResource.write.1.tlog
+D:\NHN\ECSTOOL20130111\PlugsRoot\obj\Debug\PlugsRoot.dll
+D:\NHN\ECSTOOL20130111\PlugsRoot\obj\Debug\PlugsRoot.pdb
